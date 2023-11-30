@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+background-color: aliceblue;
+
+}
+#app{
+color:black;
+}
+#carrosel img{
+height:300px;
+margin-top: 35px;
+}
+.carousel-inner p{
+margin-top:15px;
+color:black;
+font-size:40px;
+}
